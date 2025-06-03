@@ -8,7 +8,7 @@ To me this has been quite useful, since it runs without anything else than a bro
 
 All you have to do:
 
-Download ollama.html from this link https://github.com/gustavtresselt/localllm/
+Download lllm.html from this link https://github.com/gustavtresselt/localllm/
 
 Put it at your desktop or similarly, and dragdrop it into Chrome
 
